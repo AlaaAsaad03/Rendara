@@ -4,39 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc55e18d-550a-4268-b3c8-c1b64be967d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Upload.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="dc55e18d-550a-4268-b3c8-c1b64be967d8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="36" />
+    <option name="cachedIndexableFilesCount" value="29" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="upload-files" />
+        <entry key="$PROJECT_DIR$" value="hosting-images" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;AlaaAsaad03&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AlaaAsaad03/Rendara.git&quot;,
-    &quot;accountId&quot;: &quot;d7d36ff1-94ee-495c-a76b-1a79b60cb6cf&quot;
-  }
-}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -65,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "upload-files",
+    "git-widget-placeholder": "hosting-images",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
@@ -103,7 +88,7 @@
       <workItem from="1775049872945" duration="18000" />
       <workItem from="1775049907099" duration="180000" />
       <workItem from="1775050110972" duration="472000" />
-      <workItem from="1775050615548" duration="12276000" />
+      <workItem from="1775050615548" duration="7299000" />
     </task>
     <servers />
   </component>
@@ -116,7 +101,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/app/root.tsx</url>
           <line>73</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
