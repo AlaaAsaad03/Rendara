@@ -1,0 +1,150 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"dc55e18d-550a-4268-b3c8-c1b64be967d8\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/Components/Upload.tsx\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/app/routes/visualizer.$id.tsx\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/lib/constants.ts\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/app/routes.ts\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/app/routes.ts\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/app/routes/home.tsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/app/routes/home.tsx\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"EmbeddingIndexingInfo\">\r\n    <option name=\"cachedIndexableFilesCount\" value=\"29\" />\r\n    <option name=\"fileBasedEmbeddingIndicesEnabled\" value=\"true\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"McpProjectServerCommands\">\r\n    <commands />\r\n    <urls />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 5,\n  &quot;fromUser&quot;: false\n}</component>\r\n  <component name=\"ProjectId\" id=\"3BkRkHBr5bBPwij7312ElGTBY9T\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.MCP Project settings loaded\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\n    \"git-widget-placeholder\": \"upload-files\",\n    \"ignore.virus.scanning.warn.message\": \"true\",\n    \"javascript.preferred.runtime.type.id\": \"node\",\n    \"junie.onboarding.icon.badge.shown\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\n    \"to.speed.mode.migration.done\": \"true\",\n    \"ts.external.directory.path\": \"C:\\\\Users\\\\Alaa As'ad\\\\WebstormProjects\\\\Rendara\\\\node_modules\\\\typescript\\\\lib\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-WS-261.22158.274\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"dc55e18d-550a-4268-b3c8-c1b64be967d8\" name=\"Changes\" comment=\"\" />\r\n      <created>1775031227092</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1775031227092</updated>\r\n      <workItem from=\"1775031228055\" duration=\"1217000\" />\r\n      <workItem from=\"1775032482772\" duration=\"8009000\" />\r\n      <workItem from=\"1775044015521\" duration=\"856000\" />\r\n      <workItem from=\"1775046161694\" duration=\"2088000\" />\r\n      <workItem from=\"1775048558717\" duration=\"451000\" />\r\n      <workItem from=\"1775049142506\" duration=\"708000\" />\r\n      <workItem from=\"1775049872945\" duration=\"18000\" />\r\n      <workItem from=\"1775049907099\" duration=\"180000\" />\r\n      <workItem from=\"1775050110972\" duration=\"472000\" />\r\n      <workItem from=\"1775050615548\" duration=\"12276000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\r\n          <url>file://$PROJECT_DIR$/app/root.tsx</url>\r\n          <line>73</line>\r\n          <properties lambdaOrdinal=\"-1\" />\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2aa3ee536a9c8494a410518ac7b7101840e751f6)
++++ b/.idea/workspace.xml	(date 1775222056314)
+@@ -5,12 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="dc55e18d-550a-4268-b3c8-c1b64be967d8" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/Components/Upload.tsx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/app/routes/visualizer.$id.tsx" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lib/constants.ts" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Components/Upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Upload.tsx" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -18,7 +14,7 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="EmbeddingIndexingInfo">
+-    <option name="cachedIndexableFilesCount" value="29" />
++    <option name="cachedIndexableFilesCount" value="33" />
+     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+   </component>
+   <component name="Git.Settings">
+@@ -28,6 +24,9 @@
+     <commands />
+     <urls />
+   </component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="ProjectErrors" />
++  </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 5,
+   &quot;fromUser&quot;: false
+@@ -90,7 +89,7 @@
+       <workItem from="1775049872945" duration="18000" />
+       <workItem from="1775049907099" duration="180000" />
+       <workItem from="1775050110972" duration="472000" />
+-      <workItem from="1775050615548" duration="12276000" />
++      <workItem from="1775050615548" duration="15015000" />
+     </task>
+     <servers />
+   </component>
+Index: Components/Upload.tsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import React, {useState} from 'react'\r\nimport {useOutletContext} from \"react-router\";\r\nimport {CheckCircle2, ImageIcon, UploadIcon} from \"lucide-react\";\r\nimport {PROGRESS_INTERVAL_MS, PROGRESS_STEP, REDIRECT_DELAY_MS} from \"../lib/constants\";\r\n\r\ninterface UploadProps {\r\n    onComplete?: (base64: string) => void;\r\n}\r\n\r\nconst Upload = ({ onComplete }: UploadProps) => {\r\n    const [file, setFile] = useState<File | null>(null);\r\n    const [isDragging, setIsDragging] = useState(false);\r\n    const [progress, setProgress] = useState(0);\r\n    const { isSignedIn } = useOutletContext<AuthContext>();\r\n\r\n    const processFile = (file: File) => {\r\n        if (!isSignedIn) return;\r\n        setFile(file);\r\n        setProgress(0);\r\n\r\n        const reader = new FileReader();\r\n        reader.onloadend = () => {\r\n            const base64 = reader.result as string;\r\n            const interval = setInterval(() => {\r\n                setProgress((prev) => {\r\n                    if (prev >= 100) {\r\n                        clearInterval(interval);\r\n                        setTimeout(() => {\r\n                            onComplete?.(base64);\r\n                        }, REDIRECT_DELAY_MS);\r\n                        return 100;\r\n                    }\r\n                    return prev + PROGRESS_STEP;\r\n                });\r\n            }, PROGRESS_INTERVAL_MS);\r\n        };\r\n        reader.readAsDataURL(file);\r\n    };\r\n\r\n    const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {\r\n        const selectedFile = e.target.files?.[0];\r\n        if (selectedFile) {\r\n            processFile(selectedFile);\r\n        }\r\n    };\r\n\r\n    const handleDragOver = (e: React.DragEvent) => {\r\n        e.preventDefault();\r\n        if (isSignedIn) setIsDragging(true);\r\n    };\r\n\r\n    const handleDragLeave = () => {\r\n        setIsDragging(false);\r\n    };\r\n\r\n    const handleDrop = (e: React.DragEvent) => {\r\n        e.preventDefault();\r\n        setIsDragging(false);\r\n        if (!isSignedIn) return;\r\n\r\n        const droppedFile = e.dataTransfer.files?.[0];\r\n        if (droppedFile) {\r\n            processFile(droppedFile);\r\n        }\r\n    };\r\n\r\n    return (\r\n        <div className=\"upload\">\r\n            {!file ? (\r\n                <div\r\n                    className={`dropzone ${isDragging ? 'is-dragging' : ''}`}\r\n                    onDragOver={handleDragOver}\r\n                    onDragLeave={handleDragLeave}\r\n                    onDrop={handleDrop}\r\n                >\r\n                    <input\r\n                        type=\"file\"\r\n                        className=\"drop-input\"\r\n                        accept=\".jpg,.jpeg,.png,.webp\"\r\n                        disabled={!isSignedIn}\r\n                        onChange={handleFileChange}\r\n                    />\r\n                    <div className=\"drop-content\">\r\n                        <div className=\"drop-icon\">\r\n                            <UploadIcon size={20} />\r\n                        </div>\r\n                        <p>\r\n                            {isSignedIn ? (\r\n                                \"Click to upload or just drag and drop\"\r\n                            ): (\"Sign in or sign up with Puter to upload\")}\r\n                        </p>\r\n                        <p className=\"help\">Maximum file size 50 MB.</p>\r\n                    </div>\r\n                </div>\r\n            ) : (\r\n                <div className=\"upload-status\">\r\n                    <div className=\"status-content\">\r\n                        <div className=\"status-icon\">\r\n                            {progress === 100 ? (\r\n                                <CheckCircle2 className=\"check\" />\r\n                            ): (\r\n                                <ImageIcon className=\"image\" />\r\n                            )}\r\n                        </div>\r\n                        <h3>{file.name}</h3>\r\n                        <div className='progress'>\r\n                            <div className=\"bar\" style={{ width: `${progress}%` }} />\r\n                            <p className=\"status-text\">\r\n                                {progress < 100 ? 'Analyzing Floor Plan...' : 'Redirecting...'}\r\n                            </p>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            )}\r\n        </div>\r\n    )\r\n}\r\nexport default Upload\r\n
+===================================================================
+diff --git a/Components/Upload.tsx b/Components/Upload.tsx
+--- a/Components/Upload.tsx	(revision 2aa3ee536a9c8494a410518ac7b7101840e751f6)
++++ b/Components/Upload.tsx	(date 1775222216028)
+@@ -1,10 +1,10 @@
+-import React, {useState} from 'react'
++import React, {useState, useCallback, type ChangeEvent, type DragEvent} from 'react'
+ import {useOutletContext} from "react-router";
+ import {CheckCircle2, ImageIcon, UploadIcon} from "lucide-react";
+-import {PROGRESS_INTERVAL_MS, PROGRESS_STEP, REDIRECT_DELAY_MS} from "../lib/constants";
++import {PROGRESS_INTERVAL_MS,PROGRESS_INCREMENT, REDIRECT_DELAY_MS} from "../lib/constants";
+ 
+ interface UploadProps {
+-    onComplete?: (base64: string) => void;
++    onComplete: (base64: string) => void;
+ }
+ 
+ const Upload = ({ onComplete }: UploadProps) => {
+@@ -12,48 +12,51 @@
+     const [isDragging, setIsDragging] = useState(false);
+     const [progress, setProgress] = useState(0);
+     const { isSignedIn } = useOutletContext<AuthContext>();
+-
+-    const processFile = (file: File) => {
++    const processFile = useCallback((file: File) => {
+         if (!isSignedIn) return;
+         setFile(file);
+         setProgress(0);
+ 
+         const reader = new FileReader();
+-        reader.onloadend = () => {
+-            const base64 = reader.result as string;
++        reader.onload = (e) => {
++            const base64Data = reader.result as string;
++
+             const interval = setInterval(() => {
+                 setProgress((prev) => {
+-                    if (prev >= 100) {
++                    const next = prev + PROGRESS_INCREMENT;
++                    if (next >= 100) {
+                         clearInterval(interval);
+                         setTimeout(() => {
+-                            onComplete?.(base64);
++                            onComplete?.(base64Data);
+                         }, REDIRECT_DELAY_MS);
+                         return 100;
+                     }
+-                    return prev + PROGRESS_STEP;
++                    return next;
+                 });
+             }, PROGRESS_INTERVAL_MS);
+         };
+         reader.readAsDataURL(file);
+-    };
++    }, [isSignedIn, onComplete]);
+ 
+-    const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
++    const handleFileChange = (e: ChangeEvent<HTMLInputElement>) => {
+         const selectedFile = e.target.files?.[0];
+         if (selectedFile) {
+             processFile(selectedFile);
+         }
+     };
+ 
+-    const handleDragOver = (e: React.DragEvent) => {
++    const handleDragOver = (e: DragEvent<HTMLDivElement>) => {
++        e.preventDefault();
++        if (!isSignedIn) return;
++        setIsDragging(true);
++    };
++
++    const handleDragLeave = (e: DragEvent<HTMLDivElement>) => {
+         e.preventDefault();
+-        if (isSignedIn) setIsDragging(true);
+-    };
+-
+-    const handleDragLeave = () => {
+         setIsDragging(false);
+     };
+ 
+-    const handleDrop = (e: React.DragEvent) => {
++    const handleDrop = (e: DragEvent<HTMLDivElement>) => {
+         e.preventDefault();
+         setIsDragging(false);
+         if (!isSignedIn) return;
+@@ -79,7 +82,7 @@
+                         accept=".jpg,.jpeg,.png,.webp"
+                         disabled={!isSignedIn}
+                         onChange={handleFileChange}
+-                    />
++                        />
+                     <div className="drop-content">
+                         <div className="drop-icon">
+                             <UploadIcon size={20} />
